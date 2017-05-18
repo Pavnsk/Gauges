@@ -21,3 +21,14 @@ D:\YandexDisk\Документы\РасчетПробокПоГОСТ24853-81\Р
 D:\YandexDisk\Документы\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853_81.Form1.resources
 D:\YandexDisk\Документы\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853_81.Properties.Resources.resources
 D:\YandexDisk\Документы\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853-81.csproj.GenerateResource.Cache
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\bin\Debug\gost24853-81.pdf
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\bin\Debug\РасчетПробокПоГОСТ24853-81.exe
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\bin\Debug\РасчетПробокПоГОСТ24853-81.pdb
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\bin\Debug\МашиностроительнаяБиблиотека.dll
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\bin\Debug\МашиностроительнаяБиблиотека.pdb
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853-81.csprojResolveAssemblyReference.cache
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853_81.Form1.resources
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853_81.Properties.Resources.resources
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853-81.csproj.GenerateResource.Cache
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853-81.exe
+C:\Users\pav\Source\Repos\Gauges\РасчетПробокПоГОСТ24853-81\РасчетПробокПоГОСТ24853-81\obj\x86\Debug\РасчетПробокПоГОСТ24853-81.pdb

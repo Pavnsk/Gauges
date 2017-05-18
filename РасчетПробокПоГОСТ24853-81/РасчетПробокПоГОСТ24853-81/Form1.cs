@@ -66,7 +66,18 @@ namespace РасчетПробокПоГОСТ24853_81
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("gost24853-81.pdf");
+            try
+            {
+                Process.Start("gost24853-81.pdf");
+            }
+            catch(Exception ex)
+            {
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            textBox2.Text = 0.1.ToString();            
         }
     }
 }
