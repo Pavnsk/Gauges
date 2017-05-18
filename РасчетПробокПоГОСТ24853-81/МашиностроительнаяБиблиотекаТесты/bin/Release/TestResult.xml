@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\src\МашиностроительнаяБиблиотекаТесты\bin\Release\МашиностроительнаяБиблиотекаТесты.exe" total="13" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-07-18" time="18:28:51">
+  <environment nunit-version="2.6.1.12217" clr-version="4.0.30319.18052" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\src\МашиностроительнаяБиблиотекаТесты\bin\Release" machine-name="ARTEM-PC" user="Artem" user-domain="Artem-PC" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\src\МашиностроительнаяБиблиотекаТесты\bin\Release\МашиностроительнаяБиблиотекаТесты.exe" executed="True" result="Success" success="True" time="0.072" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="МашиностроительнаяБиблиотекаТесты" executed="True" result="Success" success="True" time="0.072" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="КалькуляторПробокТесты" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="МашиностроительнаяБиблиотекаТесты.КалькуляторПробокТесты.ВычислитьРазмерПробкиНЕ" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.КалькуляторПробокТесты.ВычислитьРазмерПробкиПР" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.КалькуляторПробокТесты.ВычислитьРазмерПробкиПРизнош" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.КалькуляторПробокТесты.ОкруглитьРазмерДоПоловиныМикрометраВБольшуюСторону" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.КалькуляторПробокТесты.ОкруглитьРазмерДоПоловиныМикрометраВМеньшуюСторону" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ПоляДопусковТесты" executed="True" result="Success" success="True" time="0.072" asserts="0">
+            <results>
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ПоляДопусковТесты.Test1" executed="True" result="Success" success="True" time="0.016" asserts="4500" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ПоляДопусковТесты.Test2" executed="True" result="Success" success="True" time="0.018" asserts="2000" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ПоляДопусковТесты.Test3" executed="True" result="Success" success="True" time="0.038" asserts="16000" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ТаблицаДопусковТесты" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ТаблицаДопусковТесты.ПроверитьКонтрольныеСуммыДопусков" executed="True" result="Success" success="True" time="0.000" asserts="20" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ТаблицаДопусковТесты.ТестНайтиБлижайшийКвалитет" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ТаблицаДопусковТесты.ТестНайтиДопуск" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ТаблицаДопусковТесты.ТестНайтиКвалитетПоДиаметруИДопуску" executed="True" result="Success" success="True" time="0.000" asserts="520" />
+              <test-case name="МашиностроительнаяБиблиотекаТесты.ТаблицаДопусковТесты.ТестНайтиКвалитетТочноИлиСтроже" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
