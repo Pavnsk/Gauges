@@ -11,14 +11,14 @@ using System.Diagnostics;
 
 namespace РасчетПробокПоГОСТ24853_81
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void кнопкаРассчитать_Click(object sender, EventArgs e)
         {
             try
             {
@@ -75,7 +75,7 @@ namespace РасчетПробокПоГОСТ24853_81
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
             textBox2.Text = 0.1.ToString();            
         }

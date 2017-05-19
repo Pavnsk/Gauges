@@ -1,6 +1,6 @@
 ﻿namespace РасчетПробокПоГОСТ24853_81
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Требуется переменная конструктора.
@@ -32,7 +32,7 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.кнопкаРассчитать = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
@@ -84,15 +84,15 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Размер отверстия";
             // 
-            // button1
+            // кнопкаРассчитать
             // 
-            this.button1.Location = new System.Drawing.Point(137, 109);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Рассчитать";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.кнопкаРассчитать.Location = new System.Drawing.Point(137, 109);
+            this.кнопкаРассчитать.Name = "кнопкаРассчитать";
+            this.кнопкаРассчитать.Size = new System.Drawing.Size(75, 23);
+            this.кнопкаРассчитать.TabIndex = 4;
+            this.кнопкаРассчитать.Text = "Рассчитать";
+            this.кнопкаРассчитать.UseVisualStyleBackColor = true;
+            this.кнопкаРассчитать.Click += new System.EventHandler(this.кнопкаРассчитать_Click);
             // 
             // label2
             // 
@@ -228,7 +228,7 @@
             this.label5.TabIndex = 17;
             this.label5.Text = "v3";
             // 
-            // Form1
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -246,17 +246,17 @@
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.кнопкаРассчитать);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
-            this.Name = "Form1";
+            this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Расчет пробок по ГОСТ24853-81";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form1_KeyPress);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -269,7 +269,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button кнопкаРассчитать;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox5;

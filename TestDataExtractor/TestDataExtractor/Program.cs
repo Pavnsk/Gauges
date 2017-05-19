@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+//using System.Linq;
+//using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace РасчетПробокПоГОСТ24853_81
+namespace TestDataExtractor
 {
     static class Program
     {
